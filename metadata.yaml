@@ -1,0 +1,33 @@
+_repo: Travels-Amongst-American-Indians-Their-Ancient-Earthworks-and-Temples-Including-a-Journey-in-__60170
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brine, Lindesay
+    aliases:
+    - Brine, Lindesey
+    - Brine, Lindsay
+    birthdate: 1834
+    deathdate: 1906
+    gutenberg_agent_id: '50826'
+    url: http://www.gutenberg.org/2009/agents/50826
+description: ''
+gutenberg_issued: '2019-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60170'
+  lccn: 02013498
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians -- Antiquities'
+- !lcc 'E011'
+- !lcsh 'North America -- Description and travel'
+- !lcsh 'Guatemala -- Antiquities'
+- !lcsh 'Mexico -- Antiquities'
+- GITenberg
+title: "Travels Amongst American Indians, Their Ancient Earthworks and Temples\r\n\
+  Including a Journey in Guatemala, Mexico and Yucatan, and a Visit to the Ruins of\
+  \ Patinamit, Utatlan, Palenque and Uxmal"
+url: http://www.gutenberg.org/ebooks/60170
